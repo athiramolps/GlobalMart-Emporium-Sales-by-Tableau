@@ -1,0 +1,101 @@
+Row ID,Order ID,Order Date,Customer ID,Customer Name,Product ID,Product Name,Category,Sub-Category,Unit Price,Quantity,Discount,Total Sales,Shipping Date,Shipping Cost,Profit,Region,Country,City,State,Postal Code,Payment Method,Order Status
+1,1001,2023-07-01,C1001,John Smith,P1001,Laptop,Electronics,Laptops,800,2,0.1,1440,2023-07-03,30,330,North America,USA,New York,NY,10001,Credit Card,Shipped
+2,1002,2023-07-02,C1002,Jane Doe,P1002,Office Chair,Furniture,Chairs,150,5,0.05,712.5,2023-07-04,50,200,Europe,Germany,Berlin,Berlin,10115,Credit Card,Delivered
+3,1003,2023-07-03,C1003,Robert Johnson,P1003,Printer,Electronics,Printers,300,3,0,900,2023-07-05,25,225,North America,Canada,Toronto,Ontario,M5V 2R1,PayPal,Delivered
+4,1004,2023-07-04,C1004,Lisa Anderson,P1004,Pen,Office Supplies,Pens,2,50,0,100,2023-07-06,10,40,Asia,India,Mumbai,Maharashtra,400001,Cash,Delivered
+5,1005,2023-07-05,C1005,Michael Lee,P1005,Smartphone,Electronics,Phones,600,1,0,600,2023-07-07,20,380,North America,USA,Los Angeles,CA,90001,Credit Card,Delivered
+6,1006,2023-07-06,C1006,Emily Wang,P1006,Desk,Furniture,Tables,200,2,0,400,2023-07-08,40,120,Asia,China,Beijing,Beijing,100000,Credit Card,Delivered
+7,1007,2023-07-07,C1007,William Chen,P1007,Headphones,Electronics,Headphones,50,10,0.15,425,2023-07-09,15,200,North America,Canada,Vancouver,British Columbia,V6B 4N9,Credit Card,Shipped
+8,1008,2023-07-08,C1008,Sophia Kim,P1008,Mouse,Electronics,Mice,15,20,0,300,2023-07-10,20,100,Europe,France,Paris,Ile-de-France,75001,Credit Card,Delivered
+9,1009,2023-07-09,C1009,James Smith,P1009,Notebook,Office Supplies,Notebooks,8,30,0,240,2023-07-11,25,160,North America,USA,Chicago,IL,60601,Cash,Shipped
+10,1010,2023-07-10,C1010,Olivia Brown,P1010,Chair,Furniture,Chairs,120,4,0.1,432,2023-07-12,35,210,North America,USA,Houston,TX,77001,PayPal,Delivered
+11,1011,2023-07-11,C1011,David Wilson,P1011,Tablet,Electronics,Tablets,400,3,0,1200,2023-07-13,30,450,Europe,UK,London,England,SW1A 1AA,PayPal,Shipped
+12,1012,2023-07-12,C1012,Sophia Lee,P1012,File Cabinet,Furniture,Cabinets,250,2,0,500,2023-07-14,40,190,North America,USA,San Francisco,CA,94102,Credit Card,Delivered
+13,1013,2023-07-13,C1013,Ethan Johnson,P1013,Projector,Electronics,Projectors,900,1,0.2,720,2023-07-15,60,320,North America,Canada,Montreal,Quebec,H2X 1L5,Credit Card,Delivered
+14,1014,2023-07-14,C1014,Ava Anderson,P1014,Stapler,Office Supplies,Staplers,10,10,0,100,2023-07-16,10,30,Europe,Germany,Munich,Bavaria,80331,Cash,Delivered
+15,1015,2023-07-15,C1015,James Wilson,P1015,Chair,Furniture,Chairs,120,3,0.05,342,2023-07-17,25,215,Asia,Japan,Tokyo,Tokyo,100-0001,Credit Card,Delivered
+16,1016,2023-07-16,C1016,Olivia Wang,P1016,Monitor,Electronics,Monitors,300,4,0,1200,2023-07-18,35,290,North America,USA,Seattle,WA,98101,PayPal,Shipped
+17,1017,2023-07-17,C1017,Noah Garcia,P1017,Notebook,Office Supplies,Notebooks,8,20,0,160,2023-07-19,15,50,North America,USA,Miami,FL,33101,Credit Card,Delivered
+18,1018,2023-07-18,C1018,Sophia Hernandez,P1018,Desk,Furniture,Tables,200,2,0.1,360,2023-07-20,40,120,North America,USA,Dallas,TX,75201,Credit Card,Shipped
+19,1019,2023-07-19,C1019,Logan Thomas,P1019,Printer,Electronics,Printers,300,2,0,600,2023-07-21,25,250,Asia,China,Shanghai,Shanghai,200000,Cash,Delivered
+20,1020,2023-07-20,C1020,Isabella Martin,P1020,Smartphone,Electronics,Phones,600,1,0,600,2023-07-22,20,380,North America,USA,New York,NY,10001,PayPal,Delivered
+21,1021,2023-07-21,C1021,Ethan Chen,P1021,Chair,Furniture,Chairs,120,2,0,240,2023-07-23,30,90,Asia,Japan,Osaka,Osaka,530-0001,Cash,Shipped
+22,1022,2023-07-22,C1022,Olivia Lee,P1022,Laptop,Electronics,Laptops,800,2,0.1,1440,2023-07-24,30,330,North America,Canada,Calgary,Alberta,T2P 0L6,Credit Card,Shipped
+23,1023,2023-07-23,C1023,Aiden Johnson,P1023,Desk,Furniture,Tables,200,3,0,600,2023-07-25,40,160,North America,USA,Boston,MA,2101,Credit Card,Delivered
+24,1024,2023-07-24,C1024,Emma Smith,P1024,Printer,Electronics,Printers,300,3,0,900,2023-07-26,25,225,North America,USA,Philadelphia,PA,19019,PayPal,Delivered
+25,1025,2023-07-25,C1025,Noah Kim,P1025,Pen,Office Supplies,Pens,2,100,0,200,2023-07-27,10,90,Europe,UK,Manchester,England,M1 1AE,Credit Card,Delivered
+26,1026,2023-07-26,C1026,Emily Johnson,P1026,Headphones,Electronics,Headphones,50,5,0.15,212.5,2023-07-28,15,100,North America,Canada,Ottawa,Ontario,K1P 1J1,Cash,Shipped
+27,1027,2023-07-27,C1027,Liam Brown,P1027,Mouse,Electronics,Mice,15,10,0,150,2023-07-29,20,50,Europe,Germany,Berlin,Berlin,10115,Credit Card,Shipped
+28,1028,2023-07-28,C1028,Oliver Smith,P1028,Notebook,Office Supplies,Notebooks,8,30,0,240,2023-07-30,25,160,North America,USA,Seattle,WA,98101,PayPal,Delivered
+29,1029,2023-07-29,C1029,Amelia Lee,P1029,Chair,Furniture,Chairs,120,2,0,240,2023-07-31,35,165,Asia,Japan,Tokyo,Tokyo,100-0001,Credit Card,Shipped
+30,1030,2023-07-30,C1030,Michael Johnson,P1030,Tablet,Electronics,Tablets,400,2,0,800,2023-08-01,30,370,North America,USA,Los Angeles,CA,90001,Cash,Shipped
+31,1031,2023-07-31,C1031,Sophia Kim,P1031,Office Chair,Furniture,Chairs,150,4,0.1,540,2023-08-02,50,190,Europe,France,Paris,Ile-de-France,75001,Credit Card,Shipped
+32,1032,2023-08-01,C1032,Logan Lee,P1032,Projector,Electronics,Projectors,900,1,0.2,720,2023-08-03,60,320,North America,Canada,Toronto,Ontario,M5V 2R1,PayPal,Delivered
+33,1033,2023-08-02,C1033,Emma Brown,P1033,Stapler,Office Supplies,Staplers,10,5,0,50,2023-08-04,10,15,Asia,India,Mumbai,Maharashtra,400001,Credit Card,Shipped
+34,1034,2023-08-03,C1034,Liam Wilson,P1034,Chair,Furniture,Chairs,120,2,0.05,228,2023-08-05,25,175,North America,USA,Chicago,IL,60601,Credit Card,Delivered
+35,1035,2023-08-04,C1035,Sophia Johnson,P1035,Monitor,Electronics,Monitors,300,3,0,900,2023-08-06,35,285,North America,USA,San Francisco,CA,94102,PayPal,Delivered
+36,1036,2023-08-05,C1036,Oliver Wang,P1036,Notebook,Office Supplies,Notebooks,8,10,0,80,2023-08-07,15,50,Europe,UK,London,England,SW1A 1AA,PayPal,Shipped
+37,1037,2023-08-06,C1037,Isabella Lee,P1037,Desk,Furniture,Tables,200,3,0.1,540,2023-08-08,40,160,North America,Canada,Vancouver,British Columbia,V6B 4N9,Credit Card,Delivered
+38,1038,2023-08-07,C1038,Liam Thomas,P1038,Printer,Electronics,Printers,300,2,0,600,2023-08-09,25,250,Asia,China,Beijing,Beijing,100000,Cash,Shipped
+39,1039,2023-08-08,C1039,Olivia Martinez,P1039,Smartphone,Electronics,Phones,600,1,0,600,2023-08-10,20,380,North America,USA,New York,NY,10001,PayPal,Delivered
+40,1040,2023-08-09,C1040,Aiden Wilson,P1040,Office Chair,Furniture,Chairs,150,3,0,450,2023-08-11,30,120,Asia,Japan,Osaka,Osaka,530-0001,Credit Card,Shipped
+41,1041,2023-08-10,C1041,Emma Johnson,P1041,Desk,Furniture,Tables,200,2,0,400,2023-08-12,40,120,North America,USA,Boston,MA,2101,Credit Card,Shipped
+42,1042,2023-08-11,C1042,Noah Smith,P1042,Laptop,Electronics,Laptops,800,2,0.1,1440,2023-08-13,30,330,North America,Canada,Calgary,Alberta,T2P 0L6,PayPal,Shipped
+43,1043,2023-08-12,C1043,Sophia Wang,P1043,File Cabinet,Furniture,Cabinets,250,3,0,750,2023-08-14,50,175,North America,USA,San Francisco,CA,94102,Credit Card,Delivered
+44,1044,2023-08-13,C1044,Oliver Thomas,P1044,Printer,Electronics,Printers,300,2,0,600,2023-08-15,25,250,Asia,India,Delhi,Delhi,110001,PayPal,Delivered
+45,1045,2023-08-14,C1045,Ava Smith,P1045,Pen,Office Supplies,Pens,2,50,0,100,2023-08-16,10,40,Europe,Germany,Munich,Bavaria,80331,Cash,Delivered
+46,1046,2023-08-15,C1046,Liam Johnson,P1046,Headphones,Electronics,Headphones,50,5,0.15,212.5,2023-08-17,15,100,North America,Canada,Ottawa,Ontario,K1P 1J1,Credit Card,Shipped
+47,1047,2023-08-16,C1047,Sophia Brown,P1047,Mouse,Electronics,Mice,15,10,0,150,2023-08-18,20,50,Europe,France,Paris,Ile-de-France,75001,Credit Card,Shipped
+48,1048,2023-08-17,C1048,Isabella Johnson,P1048,Notebook,Office Supplies,Notebooks,8,30,0,240,2023-08-19,25,160,North America,USA,Seattle,WA,98101,PayPal,Delivered
+49,1049,2023-08-18,C1049,Ethan Martinez,P1049,Chair,Furniture,Chairs,120,2,0,240,2023-08-20,35,165,Asia,Japan,Tokyo,Tokyo,100-0001,Credit Card,Shipped
+50,1050,2023-08-19,C1050,Olivia Smith,P1050,Tablet,Electronics,Tablets,400,2,0,800,2023-08-21,30,370,North America,USA,Los Angeles,CA,90001,Cash,Shipped
+51,1051,2023-08-20,C1051,Michael Wilson,P1051,Office Chair,Furniture,Chairs,150,4,0.1,540,2023-08-22,50,190,Europe,UK,London,England,SW1A 1AA,Credit Card,Shipped
+52,1052,2023-08-21,C1052,Sophia Thomas,P1052,Projector,Electronics,Projectors,900,1,0.2,720,2023-08-23,60,320,North America,Canada,Toronto,Ontario,M5V 2R1,PayPal,Delivered
+53,1053,2023-08-22,C1053,Oliver Brown,P1053,Stapler,Office Supplies,Staplers,10,5,0,50,2023-08-24,10,15,Asia,India,Mumbai,Maharashtra,400001,Credit Card,Shipped
+54,1054,2023-08-23,C1054,Amelia Lee,P1054,Chair,Furniture,Chairs,120,2,0.05,228,2023-08-25,25,175,North America,USA,Chicago,IL,60601,Credit Card,Delivered
+55,1055,2023-08-24,C1055,Ethan Johnson,P1055,Monitor,Electronics,Monitors,300,3,0,900,2023-08-26,35,285,North America,USA,San Francisco,CA,94102,PayPal,Delivered
+56,1056,2023-08-25,C1056,Ava Williams,P1056,Notebook,Office Supplies,Notebooks,8,10,0,80,2023-08-27,15,50,Europe,Germany,Berlin,Berlin,10115,PayPal,Shipped
+57,1057,2023-08-26,C1057,Liam Lee,P1057,Desk,Furniture,Tables,200,3,0.1,540,2023-08-28,40,160,North America,Canada,Vancouver,British Columbia,V6B 4N9,Credit Card,Delivered
+58,1058,2023-08-27,C1058,Emma Smith,P1058,Printer,Electronics,Printers,300,2,0,600,2023-08-29,25,250,Asia,China,Beijing,Beijing,100000,PayPal,Shipped
+59,1059,2023-08-28,C1059,Liam Johnson,P1059,Smartphone,Electronics,Phones,600,1,0,600,2023-08-30,20,380,North America,USA,New York,NY,10001,Credit Card,Delivered
+60,1060,2023-08-29,C1060,Olivia Hernandez,P1060,Office Chair,Furniture,Chairs,150,3,0,450,2023-08-31,30,120,Asia,Japan,Osaka,Osaka,530-0001,Cash,Shipped
+61,1061,2023-08-30,C1061,Noah Brown,P1061,Laptop,Electronics,Laptops,800,2,0.1,1440,2023-09-01,30,330,North America,Canada,Calgary,Alberta,T2P 0L6,Credit Card,Shipped
+62,1062,2023-08-31,C1062,Sophia Wang,P1062,File Cabinet,Furniture,Cabinets,250,3,0,750,2023-09-02,50,175,North America,USA,San Francisco,CA,94102,PayPal,Delivered
+63,1063,2023-09-01,C1063,Oliver Thomas,P1063,Printer,Electronics,Printers,300,2,0,600,2023-09-03,25,250,Asia,India,Delhi,Delhi,110001,Credit Card,Delivered
+64,1064,2023-09-02,C1064,Ava Smith,P1064,Pen,Office Supplies,Pens,2,50,0,100,2023-09-04,10,40,Europe,Germany,Munich,Bavaria,80331,Cash,Shipped
+65,1065,2023-09-03,C1065,Liam Johnson,P1065,Headphones,Electronics,Headphones,50,5,0.15,212.5,2023-09-05,15,100,North America,Canada,Ottawa,Ontario,K1P 1J1,PayPal,Shipped
+66,1066,2023-09-04,C1066,Sophia Brown,P1066,Mouse,Electronics,Mice,15,10,0,150,2023-09-06,20,50,Europe,France,Paris,Ile-de-France,75001,Cash,Shipped
+67,1067,2023-09-05,C1067,Isabella Johnson,P1067,Notebook,Office Supplies,Notebooks,8,30,0,240,2023-09-07,25,160,North America,USA,Seattle,WA,98101,Credit Card,Delivered
+68,1068,2023-09-06,C1068,Ethan Martinez,P1068,Chair,Furniture,Chairs,120,2,0,240,2023-09-08,35,165,Asia,Japan,Tokyo,Tokyo,100-0001,Credit Card,Shipped
+69,1069,2023-09-07,C1069,Olivia Smith,P1069,Tablet,Electronics,Tablets,400,2,0,800,2023-09-09,30,370,North America,USA,Los Angeles,CA,90001,PayPal,Delivered
+70,1070,2023-09-08,C1070,Michael Wilson,P1070,Office Chair,Furniture,Chairs,150,4,0.1,540,2023-09-10,50,190,Europe,UK,London,England,SW1A 1AA,Credit Card,Shipped
+71,1071,2023-09-09,C1071,Sophia Thomas,P1071,Projector,Electronics,Projectors,900,1,0.2,720,2023-09-11,60,320,North America,Canada,Toronto,Ontario,M5V 2R1,PayPal,Delivered
+72,1072,2023-09-10,C1072,Noah Brown,P1072,Stapler,Office Supplies,Staplers,10,5,0,50,2023-09-12,10,15,Asia,India,Mumbai,Maharashtra,400001,Credit Card,Shipped
+73,1073,2023-09-11,C1073,Amelia Lee,P1073,Chair,Furniture,Chairs,120,2,0.05,228,2023-09-13,25,175,North America,USA,Chicago,IL,60601,Cash,Delivered
+74,1074,2023-09-12,C1074,Ethan Johnson,P1074,Monitor,Electronics,Monitors,300,3,0,900,2023-09-14,35,285,North America,USA,San Francisco,CA,94102,Credit Card,Delivered
+75,1075,2023-09-13,C1075,Ava Williams,P1075,Notebook,Office Supplies,Notebooks,8,10,0,80,2023-09-15,15,50,Europe,Germany,Berlin,Berlin,10115,PayPal,Shipped
+76,1076,2023-09-14,C1076,Liam Lee,P1076,Desk,Furniture,Tables,200,3,0.1,540,2023-09-16,40,160,North America,Canada,Vancouver,British Columbia,V6B 4N9,Credit Card,Delivered
+77,1077,2023-09-15,C1077,Emma Smith,P1077,Printer,Electronics,Printers,300,2,0,600,2023-09-17,25,250,Asia,China,Beijing,Beijing,100000,PayPal,Delivered
+78,1078,2023-09-16,C1078,Liam Johnson,P1078,Smartphone,Electronics,Phones,600,1,0,600,2023-09-18,20,380,North America,USA,New York,NY,10001,Credit Card,Shipped
+79,1079,2023-09-17,C1079,Olivia Hernandez,P1079,Office Chair,Furniture,Chairs,150,3,0,450,2023-09-19,30,120,Asia,Japan,Osaka,Osaka,530-0001,Cash,Shipped
+80,1080,2023-09-18,C1080,Michael Wilson,P1080,Tablet,Electronics,Tablets,400,2,0,800,2023-09-20,30,370,North America,USA,Los Angeles,CA,90001,PayPal,Delivered
+81,1081,2023-09-19,C1081,Sophia Thomas,P1081,Office Chair,Furniture,Chairs,150,4,0.1,540,2023-09-21,50,190,Europe,UK,London,England,SW1A 1AA,Credit Card,Shipped
+82,1082,2023-09-20,C1082,Noah Brown,P1082,Projector,Electronics,Projectors,900,1,0.2,720,2023-09-22,60,320,North America,Canada,Toronto,Ontario,M5V 2R1,PayPal,Delivered
+83,1083,2023-09-21,C1083,Sophia Wang,P1083,File Cabinet,Furniture,Cabinets,250,3,0,750,2023-09-23,50,175,North America,USA,San Francisco,CA,94102,Credit Card,Delivered
+84,1084,2023-09-22,C1084,Oliver Thomas,P1084,Printer,Electronics,Printers,300,2,0,600,2023-09-24,25,250,Asia,India,Delhi,Delhi,110001,PayPal,Delivered
+85,1085,2023-09-23,C1085,Ava Smith,P1085,Pen,Office Supplies,Pens,2,50,0,100,2023-09-25,10,40,Europe,Germany,Munich,Bavaria,80331,Cash,Shipped
+86,1086,2023-09-24,C1086,Liam Johnson,P1086,Headphones,Electronics,Headphones,50,5,0.15,212.5,2023-09-26,15,100,North America,Canada,Ottawa,Ontario,K1P 1J1,PayPal,Shipped
+87,1087,2023-09-25,C1087,Sophia Brown,P1087,Mouse,Electronics,Mice,15,10,0,150,2023-09-27,20,50,Europe,France,Paris,Ile-de-France,75001,Cash,Shipped
+88,1088,2023-09-26,C1088,Isabella Johnson,P1088,Notebook,Office Supplies,Notebooks,8,30,0,240,2023-09-28,25,160,North America,USA,Seattle,WA,98101,Credit Card,Delivered
+89,1089,2023-09-27,C1089,Ethan Martinez,P1089,Chair,Furniture,Chairs,120,2,0,240,2023-09-29,35,165,Asia,Japan,Tokyo,Tokyo,100-0001,Credit Card,Shipped
+90,1090,2023-09-28,C1090,Olivia Smith,P1090,Tablet,Electronics,Tablets,400,2,0,800,2023-09-30,30,370,North America,USA,Los Angeles,CA,90001,PayPal,Delivered
+91,1091,2023-09-29,C1091,Michael Wilson,P1091,Office Chair,Furniture,Chairs,150,4,0.1,540,2023-10-01,50,190,Europe,UK,London,England,SW1A 1AA,Credit Card,Shipped
+92,1092,2023-09-30,C1092,Noah Brown,P1092,Projector,Electronics,Projectors,900,1,0.2,720,2023-10-02,60,320,North America,Canada,Toronto,Ontario,M5V 2R1,PayPal,Delivered
+93,1093,2023-10-01,C1093,Sophia Wang,P1093,File Cabinet,Furniture,Cabinets,250,3,0,750,2023-10-03,50,175,North America,USA,San Francisco,CA,94102,Credit Card,Delivered
+94,1094,2023-10-02,C1094,Oliver Thomas,P1094,Printer,Electronics,Printers,300,2,0,600,2023-10-04,25,250,Asia,India,Delhi,Delhi,110001,PayPal,Delivered
+95,1095,2023-10-03,C1095,Ava Smith,P1095,Pen,Office Supplies,Pens,2,50,0,100,2023-10-05,10,40,Europe,Germany,Munich,Bavaria,80331,Cash,Shipped
+96,1096,2023-10-04,C1096,Liam Johnson,P1096,Headphones,Electronics,Headphones,50,5,0.15,212.5,2023-10-06,15,100,North America,Canada,Ottawa,Ontario,K1P 1J1,PayPal,Shipped
+97,1097,2023-10-05,C1097,Sophia Brown,P1097,Mouse,Electronics,Mice,15,10,0,150,2023-10-07,20,50,Europe,France,Paris,Ile-de-France,75001,Cash,Shipped
+98,1098,2023-10-06,C1098,Isabella Johnson,P1098,Notebook,Office Supplies,Notebooks,8,30,0,240,2023-10-08,25,160,North America,USA,Seattle,WA,98101,Credit Card,Delivered
+99,1099,2023-10-07,C1099,Ethan Martinez,P1099,Chair,Furniture,Chairs,120,2,0,240,2023-10-09,35,165,Asia,Japan,Tokyo,Tokyo,100-0001,Credit Card,Shipped
+100,1100,2023-10-08,C1100,Olivia Smith,P1100,Tablet,Electronics,Tablets,400,2,0,800,2023-10-10,30,370,North America,USA,Los Angeles,CA,90001,PayPal,Delivered
